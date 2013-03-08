@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">PhotoSend</string>
+    <string name="menu_settings">Menu</string>
+    <string name="app_id">141628695994333</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_auth">Auth</string>
+
+</resources>
